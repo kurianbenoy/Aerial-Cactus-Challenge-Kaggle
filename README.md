@@ -8,6 +8,7 @@ In this kernel we will be trying to solve this challenge using CNN through **fas
 
 ![Fastailogo](https://images.ctfassets.net/orgovvkppcys/5EShj6ZsQFERrNd/af53baa732ce18025c51c9268ffd037b/image.png?w=648&q=100)
 
+**My Kaggle Kernel for the same**: https://www.kaggle.com/kurianbenoy/learning-aerial-cactus-challenge-using-fast-ai
 
 ### About the dataset
 
